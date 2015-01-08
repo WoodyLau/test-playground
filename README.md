@@ -1,2 +1,2 @@
-This is the readme\n
+This is the readme
 It is very small
